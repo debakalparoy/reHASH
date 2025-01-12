@@ -22,10 +22,6 @@ Here is a working live [demo](https://re-hash.herokuapp.com/) :
 <img width="600px" src='src/1.png'>
 <img width="600px" src='src/2.png'>
 
-### Choose from different Categories
-
-<img width="600px" src='public/2.png'>
-
 ## Built with 
 
 - [Natural Language Processing (NLP)](https://www.ibm.com/cloud/learn/natural-language-processing#:~:text=Natural%20language%20processing%20(NLP)%20refers,same%20way%20human%20beings%20can.)
